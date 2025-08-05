@@ -23,15 +23,15 @@
 
 将以下两张照片作为示例输入：
 
-![示例输入1](./example_input/input1.jpg)
-![示例输入2](./example_input/input2.jpg)
+![示例输入1](./example_input/DSC00678.JPG)
+![示例输入2](./example_input/DSC00704.JPG)
 
 ---
 
 得到的水印效果如下图所示：
 
-![输出示例1](./example_output/output1.jpg)
-![输出示例2](./example_output/output2.jpg)
+![输出示例1](./example_output/DSC00678.JPG)
+![输出示例2](./example_output/DSC00704.JPG)
 
 ---
 
